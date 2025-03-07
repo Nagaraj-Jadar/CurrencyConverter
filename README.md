@@ -61,8 +61,6 @@ https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies
    ```
 5. 🔃 Open a Pull Request.
 
-## 📜 License
-
 ## 📬 Contact
 
 For any issues, feel free to reach out to **[nagarajbjadar@gmail.com](mailto:your-email@example.com)** or create an issue in the repository.
